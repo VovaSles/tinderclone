@@ -1,0 +1,27 @@
+.swipebuttons{
+position: fixed;
+bottom: 0;
+width: 100%;
+display: flex;
+justify-content:space-evenly;
+}
+.hart{
+    padding: 3vw;
+    color: red;
+}
+.flash{
+    padding: 3vw;
+    color:gold;
+}
+.star{
+    padding: 3vw;
+    color: blue;
+}
+.clear{
+    padding: 3vw;
+    color: black;
+}
+.replay{
+    padding: 3vw;
+    color:green;
+}

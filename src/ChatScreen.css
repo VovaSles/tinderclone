@@ -1,0 +1,39 @@
+.chat__text{
+    margin-left: 10px;
+    background-color:lightpink;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.chat__message{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.chat__textUser{
+    margin-left: auto;
+    background-color: lightskyblue;
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+}
+.chat__input{
+    display: flex;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: lightsteelblue;
+}
+input{
+    flex: 1;
+    padding: 10px;
+    border: none;
+}
+.chat__button{
+    border: none;
+    margin-right: 20px;
+    background-color: linen;
+    font-weight: bolder;
+    color: red;
+}
