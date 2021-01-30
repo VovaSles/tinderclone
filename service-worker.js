@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tinderclone/precache-manifest.1159eda9353e17e65359492dd280d374.js"
+  "/tinderclone/precache-manifest.2239bfac7a935f67bb550ad67ebc6935.js"
 );
 
 self.addEventListener('message', (event) => {
